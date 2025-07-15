@@ -28,12 +28,11 @@ Sou apaixonado por transformar dados em insights valiosos. Utilizo **Power BI** 
 
 ## 📈 Destaques de Projetos
 
-### 🔹 [Dashboard de Vendas - Power BI](https://github.com/brenovasconc/dashboard-vendas-powerbi)
+### 🔹 [DashBoard de Vendas, Custo , Margem de Lucro e KPI - Power BI]([https://github.com/brenovasconc/analise-dados-python](https://github.com/brenovasconc/Projetos-PowerBI/blob/main/Projeto02/DashBoard%20de%20Vendas%2C%20Custo%20%2C%20Margem%20de%20Lucro%20e%20KPI.pbix))
 > Dashboard interativo que analisa o desempenho de vendas por região, produto e período. Inclui filtros dinâmicos, segmentações e KPIs.
 
-### 🔹 [Análise de Dados com Python](https://github.com/brenovasconc/analise-dados-python)
-> Projeto com análise exploratória de dados utilizando `pandas`, `matplotlib` e `seaborn`. Foco em limpeza de dados e visualizações.
-
+### 🔹 [Dashboard Analitico Vendas Globais - Power BI]([https://github.com/brenovasconc/dashboard-vendas-powerbi](https://github.com/brenovasconc/Projetos-PowerBI/blob/main/Projeto01/Dashboard%20Analitico%20Vendas%20Globais.pbix))
+> Visualização interativa das principais métricas de desempenho de vendas em diferentes regiões do mundo.
 ---
 
 ## 📫 Como me encontrar
