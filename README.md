@@ -28,7 +28,7 @@ Sou apaixonado por transformar dados em insights valiosos. Utilizo **Power BI** 
 
 ## 📈 Destaques de Projetos
 
-### 🔹 [DashBoard de Vendas, Custo , Margem de Lucro e KPI - Power BI]([https://github.com/brenovasconc/analise-dados-python](https://github.com/brenovasconc/Projetos-PowerBI/blob/main/Projeto02/DashBoard%20de%20Vendas%2C%20Custo%20%2C%20Margem%20de%20Lucro%20e%20KPI.pbix))
+### 🔹 [DashBoard de Vendas, Custo , Margem de Lucro e KPI - Power BI](https://github.com/brenovasconc/Projetos-PowerBI/tree/main/Projeto02)
 > Dashboard interativo que analisa o desempenho de vendas por região, produto e período. Inclui filtros dinâmicos, segmentações e KPIs.
 
 ### 🔹 [Dashboard Analitico Vendas Globais - Power BI]([https://github.com/brenovasconc/dashboard-vendas-powerbi](https://github.com/brenovasconc/Projetos-PowerBI/blob/main/Projeto01/Dashboard%20Analitico%20Vendas%20Globais.pbix))
