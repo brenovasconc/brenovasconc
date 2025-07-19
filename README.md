@@ -28,6 +28,9 @@ Sou apaixonado por transformar dados em insights valiosos. Utilizo **Power BI** 
 
 ## 📈 Últimos de Projetos:
 
+### 🔹 [Análise de Dados de Recursos Humanos](https://github.com/brenovasconc/Projetos-PowerBI/tree/main/Projeto05)
+> Neste projeto, utilizei o Power BI para analisar dados de Recursos Humanos, criando um dashboard com insights como total de funcionários, tempo médio de experiência, distribuição por gênero, média salarial, funções, disponibilidade para hora extra e nível de envolvimento. Também calculei o percentual de funcionários que devem ser promovidos, com base no tempo desde a última promoção.
+
 ### 🔹 [Dashboard Comercial - Performance de Vendas](https://github.com/brenovasconc/Projetos-PowerBI/tree/main/Projeto04)
 > Neste projeto, construí diversas visualizações para compreender a performance de vendas de uma empresa fictícia. Durante o processo, trabalhei com recursos interessantes do Power BI, como a Narrativa Inteligente, Principais Influenciadores, Gráfico de Faixas e a criação de um menu para o índice do dashboard.
 
@@ -36,10 +39,6 @@ Sou apaixonado por transformar dados em insights valiosos. Utilizo **Power BI** 
 
 ### 🔹 [DashBoard de Vendas, Custo , Margem de Lucro e KPI - Power BI](https://github.com/brenovasconc/Projetos-PowerBI/tree/main/Projeto02)
 > Dashboard interativo que analisa o desempenho de vendas por região, produto e período. Inclui filtros dinâmicos, segmentações e KPIs.
-
-### 🔹 [Dashboard Analitico Vendas Globais - Power BI](https://github.com/brenovasconc/Projetos-PowerBI/tree/main/Projeto01)
-> Visualização interativa das principais métricas de desempenho de vendas em diferentes regiões do mundo.
----
 
 ## 📫 Como me encontrar
 
