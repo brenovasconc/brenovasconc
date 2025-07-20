@@ -37,8 +37,8 @@ Sou apaixonado por transformar dados em insights valiosos. Utilizo **Power BI** 
 ### 🔹 [Análise de Campanhas de Marketing no Power BI](https://github.com/brenovasconc/Projetos-PowerBI/tree/main/Projeto03)
 > Nesse mini-projeto, desenvolvi 4 dashboards interativos com foco em entender o perfil dos clientes, seus padrões de compra e a performance das campanhas de marketing.
 
-### 🔹 [DashBoard de Vendas, Custo , Margem de Lucro e KPI - Power BI](https://github.com/brenovasconc/Projetos-PowerBI/tree/main/Projeto02)
-> Dashboard interativo que analisa o desempenho de vendas por região, produto e período. Inclui filtros dinâmicos, segmentações e KPIs.
+### 🔹 [Revisão e Correção de um Dashboard Problemático](https://github.com/brenovasconc/Projetos-PowerBI/tree/main/Projeto06)
+> Nesse projeto eu revisei e desconstruí um dashboard problemático feito no Power BI, identificando e corrigindo erros nos KPIs de logística. Reestruturei a visualização dos dados para torná-la clara, precisa e profissional. Apresentei uma nova versão do dashboard com análises corretas e bem justificadas..
 
 ## 📫 Como me encontrar
 
