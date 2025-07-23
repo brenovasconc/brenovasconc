@@ -2,7 +2,7 @@
 <p align="center">
   🔍 Explorando dados com <strong>Power BI</strong> e <strong>Python</strong> <br>
   📊 Transformando dados em decisões <br>
-  💻 Estudante, Desenvolvedor e entusiasta de Data Science
+  💻 Estudante, Desenvolvedor e entusiasta de Analista de Dados
 </p>
 
 ---
